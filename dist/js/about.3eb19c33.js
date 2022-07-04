@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkyuenszehong_github_io"]=self["webpackChunkyuenszehong_github_io"]||[]).push([[443],{242:function(n,u,e){e.r(u),e.d(u,{default:function(){return b}});var t=e(252);const s={class:"about"},i=(0,t._)("h1",null,"This is an about page",-1),a=[i];function o(n,u){return(0,t.wg)(),(0,t.iD)("div",s,a)}var r=e(744);const c={},h=(0,r.Z)(c,[["render",o]]);var b=h}}]);
+//# sourceMappingURL=about.3eb19c33.js.map
