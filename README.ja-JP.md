@@ -39,7 +39,7 @@
 - [com3102-web-project](https://github.com/YuenSzeHong/com3102-web-project) - TypeScript
 - [vue-student-management](https://github.com/YuenSzeHong/vue-student-management) - Vue.js
 - [com2103-database-project](https://github.com/YuenSzeHong/com2103-database-project) - Java
-- [Mastermind Game](link-to-your-mastermind-game-repository) - HTML, CSS, JavaScript （大学入学前のプロジェクト）
+- [Mastermind Game](https://github.com/YuenSzeHong/mastermind-game) - HTML, CSS, JavaScript （大学入学前のプロジェクト）
 
 より多くのプロジェクトについては、私の[リポジトリ](https://github.com/YuenSzeHong?tab=repositories)をご覧ください。
 

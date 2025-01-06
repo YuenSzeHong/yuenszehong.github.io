@@ -39,7 +39,7 @@ Check out some of my notable projects:
 - [com3102-web-project](https://github.com/YuenSzeHong/com3102-web-project) - TypeScript
 - [vue-student-management](https://github.com/YuenSzeHong/vue-student-management) - Vue.js
 - [com2103-database-project](https://github.com/YuenSzeHong/com2103-database-project) - Java
-- [Mastermind Game](link-to-your-mastermind-game-repository) - HTML, CSS, JavaScript (Pre-university project)
+- [Mastermind Game](https://github.com/YuenSzeHong/mastermind-game) - HTML, CSS, JavaScript (Pre-university project)
 
 Feel free to explore [my repositories](https://github.com/YuenSzeHong?tab=repositories) for more projects!
 
