@@ -3,7 +3,9 @@
 *其他语言版本: [English](README.md), [日本語](README.ja-JP.md), [廣東話（香港）](README.zh-HK.md), [繁體中文（台灣省）](README.zh-TW.md)*
 
 拥有企业系统、Web应用和AI基础设施经验的软件开发者。
-近期于香港恒生大学获得数据科学与人工智能理学硕士学位。
+
+- BA (Hons) AHCC（应用及人本计算学（荣誉）文学士），现称应用计算（AC），经认证等同于应用计算理学学士
+- 香港恒生大学数据科学与人工智能硕士
 
 ## 🔧 技术与工具
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)

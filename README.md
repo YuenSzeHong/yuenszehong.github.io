@@ -3,7 +3,9 @@
 _Read this in other languages: [简体中文](README.zh-CN.md), [廣東話（香港）](README.zh-HK.md), [繁體中文（台灣省）](README.zh-TW.md), [日本語](README.ja-JP.md)_
 
 Software developer with experience in enterprise systems, web applications, and AI infrastructure.
-Recently completed MSc in Data Science and Artificial Intelligence at Hang Seng University of Hong Kong.
+
+- BA (Hons) in Applied and Human-Centred Computing (AHCC), now known as Applied Computing (AC), certified as equivalent to a BSc in Applied Computing.
+- MSc in Data Science and Artificial Intelligence at Hang Seng University of Hong Kong.
 
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)

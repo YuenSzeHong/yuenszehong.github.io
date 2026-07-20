@@ -3,7 +3,9 @@
 *其他語言版本: [English](README.md), [日本語](README.ja-JP.md), [简体中文](README.zh-CN.md), [繁體中文（台灣省）](README.zh-TW.md)*
 
 擁有企業系統、Web應用同AI基礎設施經驗嘅軟件開發者。
-近期喺香港恒生大學獲得數據科學同人工智能理學碩士學位。
+
+- BA (Hons) AHCC（應用及人本計算學（榮譽）文學士），現稱應用計算（AC），經認證等同於應用計算理學學士
+- 香港恒生大學數據科學同人工智能碩士
 
 ## 🔧 技術同工具
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
