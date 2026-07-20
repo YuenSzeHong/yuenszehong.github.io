@@ -2,63 +2,103 @@
 
 *其他語言版本: [English](README.md), [日本語](README.ja-JP.md), [简体中文](README.zh-CN.md), [廣東話（香港）](README.zh-HK.md)*
 
-我是一位充滿熱情的開發者，專注於Web開發，對AI和多媒體有濃厚的興趣。我最近從香港恒生大學獲得了應用和以人為本計算學士學位，該學位被認證相當於應用計算理學學士學位。我正在積極尋求科技行業的新機會。
+擁有企業系統、Web應用和AI基礎設施經驗的軟體開發者。
+近期於香港恆生大學獲得資料科學與人工智慧理學碩士學位。
 
 ## 🔧 技術與工具
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![ASP.Net](https://img.shields.io/badge/-ASP.Net-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![vLLM](https://img.shields.io/badge/-vLLM-000000?style=flat-square&logo=vllm&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🌱 我目前正在學習
+**後端與Web**
+- C# ASP.Net、Node.js、Express、Python
+- MS SQL Server、MySQL、PostgreSQL
 
-- 高級AI技術
-  - 圖像生成
-  - LLM
-  - AI歌手/TTS  
-- 雲計算
-- Rust
+**前端**
+- React、Next.js、Vue.js、TypeScript、HTML/CSS/JavaScript
 
-## 📚 項目
+**AI與資料**
+- PyTorch、LangGraph、LangChain、模型量化 (GGUF/AWQ)
+- vLLM、Ollama、本地AI部署
+- Power BI (DAX、建模)
 
-看看我的一些著名項目：
+**基礎設施**
+- Docker、Podman、Linux (WSL、Ubuntu)
+- Oracle Cloud VPS、NAS、Tailscale
 
-- [2-class-image-classification](https://github.com/YuenSzeHong/2-class-image-classification) - Python
-- [fod-premium-extraction-api](https://github.com/YuenSzeHong/fod-premium-extraction-api) - TypeScript
-- [com3102-web-project](https://github.com/YuenSzeHong/com3102-web-project) - TypeScript
-- [vue-student-management](https://github.com/YuenSzeHong/vue-student-management) - Vue.js
-- [com2103-database-project](https://github.com/YuenSzeHong/com2103-database-project) - Java
-- [Mastermind Game](https://github.com/YuenSzeHong/mastermind-game) - HTML, CSS, JavaScript（大學前項目）
+## 💼 工作經驗
 
-歡迎瀏覽[我的倉庫](https://github.com/YuenSzeHong?tab=repositories)以瞭解更多項目！
+- **分析師程式設計師** @ 東華三院 (2024-2025)
+  - ASP.Net企業系統開發
+  - MS SQL Server資料庫設計與最佳化
+
+- **程式設計師** @ 政府統計處 (2025)
+  - 資料處理與自動化
+
+- **電腦技術員 II** @ 香港中文大學系統工程部 (2024)
+  - 前線支援與系統維護
+  - 硬體/軟體安裝
+
+- **Web開發員** @ 機電工程署 (2023)
+  - 使用TypeScript將InfluxDB資料轉換至TimescaleDB
+
+- **學生導師** @ 香港恆生大學 (2022-2023)
+  - 教授程式設計技能
+  - 使用Python、Keras、QT5開發二分類影像辨識應用
+
+## 📚 專案
+
+- **本地AI基礎設施** (Python、Docker、vLLM)
+  - 多GPU推理最佳化
+  - 使用Ollama進行私有LLM部署
+
+- **FOD保費提取API** (TypeScript、Node.js)
+  - Web API開發與整合
+
+- **資料分析專案** (Power BI、Python)
+  - 決策支援視覺化與報告
+
+## 🌱 正在探索
+
+- 高級AI部署技術
+- 雲原生架構
+
+## 💼 尋求機會
+
+正在尋找以下領域職位：
+- 軟體開發 / 應用工程
+- 資料分析與商業智慧
+- AI應用開發
 
 ## 🎉 有趣的事實
 
-- 我興趣編程的激情源自Minecraft。
-- 我對AI生成的藝術感興趣，喜歡探索Stable Diffusion等工具提供的創作可能性。
-- 我是一個動漫和漫畫愛好者，對哆啦A夢和櫻桃小丸子等系列特別感興趣。  
-- 我喜歡與動漫社區互動，討論與IT、PC和健身球相關的話題。
-
-## 💼 歡迎新的機會
-
-我正在積極尋求軟體開發、Web開發或AI相關領域的初級職位。如果您有令人興奮的機會，或者想討論潛在的合作，請隨時與我聯繫！
+- Minecraft點燃了我對程式設計的熱情；現在我搭建本地AI基礎設施而不是紅石電路。
+- 我在家運行一個私有LLM實驗室，進行多GPU推理最佳化（vLLM、Ollama、RTX 50系列）。
+- 動漫與漫畫愛好者，偏好日常系、戶外系和喜劇類作品。
+- 正在學習日本G-Ball（健身球）訓練體系，努力獲得教練認證。
+- 喜歡與志同道合的人討論IT基礎設施、本地AI部署和健身球技巧。
 
 ## 💬 聯繫我
 
-- Twitter：[@TheOneHong](https://twitter.com/TheOneHong)
-- 電子郵件：[szehong26@gmail.com](mailto:szehong26@gmail.com)
-- WhatsApp：[+852 67353593](https://wa.me/85267353593) 
+- 電子郵件：szehong26@gmail.com
+- WhatsApp：+852 67353593
 - 微信：yuenszehong
-
-我一直很高興與科技行業的開發人員和專業人士聯繫。讓我們聊聊天，探討如何合作！
